@@ -240,8 +240,8 @@ La correlación contra el calcímetro en ese trabajo fue de **y = 10.63x + 1.12,
 
 **Por qué esto cierra la pregunta antes de empezar:**
 
-- Cada 1% de cal pesa aproximadamente **10 toneladas en los primeros 15 cm de un acre**; un acre-pie de suelo típico contiene 150-400 toneladas de cal [13].
-- Se necesitan del orden de **20,000 a 50,000 galones de ácido sulfúrico puro** para disolver el calcio de un acre-pie con 15-40% de cal antes de que el pH se pueda mover [13].
+- Cada 1% de cal pesa aproximadamente **10 toneladas en los primeros 15 cm de un acre**; la capa arable de un acre en suelos calcáreos contiene 150-400 toneladas de cal [13].
+- Se necesitan del orden de **20,000 a 50,000 galones de ácido sulfúrico puro** para disolver el calcio de esa capa arable de un acre cuando tiene entre 15% y 40% de cal, antes de que el pH se pueda mover [13].
 - Un estudio chileno incubó 500 y 1,000 mg de azufre elemental por kg de suelo a 60 y 120 días: en suelos con baja capacidad tampón el pH bajó fuerte (Xeres: 7.32 → 4.92; Pueblo Viejo: 7.79 → 4.50), pero en el suelo con **5.2% de carbonatos apenas se movió de 8.31 a 8.03**. Y en calcáreos la disponibilidad de micronutrientes **no sube de forma importante** con azufre elemental [14].
 - La conclusión de la extensión estadounidense es la misma: el efecto del azufre elemental es **localizado y temporal**, y **no hay manera de bajar permanentemente el pH de suelos formados a partir de materiales con mucho calcio**, como la caliza [15].
 
@@ -540,7 +540,7 @@ Costo: $546 MXN a $10.5/kg
 | Enmienda de azufre en la cama (si **no** hay cal) | $3-$4 | Un pH corregible en 3-4 meses |
 | Composta para +2 puntos de MO en la cama | $546 (o $0 si la haces) | La única palanca que mejora física y química |
 
-**El análisis cuesta menos que el saco de azufre que comprarías sin él.** Ese es el argumento, en dinero, para medir primero.
+**El análisis cuesta ~$1,185, es decir dos bultos de azufre ($1,240) — y te dice si esos dos bultos sirven.** Ese es el argumento, en dinero, para medir primero.
 
 ### Actividad 1.7
 
@@ -618,7 +618,7 @@ Estos temas están dentro del módulo por ahora; se separan en nota propia cuand
 10. Eckert y Sims — *Recommended Soil pH and Lime Requirement Tests* (NEC-1013, rev. 2009): pruebas de buffer SMP, Adams-Evans, Mehlich, Sikora. <https://www.udel.edu/content/dam/udelImages/canr/pdfs/extension/factsheets/soiltest-recs/CHAP3.pdf>
 11. UF/IFAS — HS1262, *Determination of Carbonate Concentrations in Calcareous Soils with Common Vinegar Test* (Zhu, Liu, Li): tabla de gotas vs % de carbonatos; y = 10.63x + 1.12, R² = 0.94; acidificantes <3% de carbonatos sí, >10% no. <https://ask.ifas.ufl.edu/publication/HS1262>
 12. FAO — Ejercicio de campo C01c, *pH del suelo con vinagre y bicarbonato de sodio*. <https://www.fao.org/fileadmin/user_upload/GSP/GSDP/Field_exercises/New_Format_ES/C01c-vinegar-bicarbonate-ES.pdf>
-13. USU Extension — *Managing Soil pH for Crop Production in Calcareous-Alkaline Soil* (Cardon et al.): 1,000 lb de S/acre para 7.0→6.0 sin cal; cambios medibles a los 12-18 meses; cada 1% de cal ≈ 10 t en los primeros 15 cm; 20,000-50,000 galones de ácido sulfúrico puro por acre-pie con 15-40% de cal. <https://extension.usu.edu/crops/research/managing-soil-ph-for-crop-production>
+13. USU Extension — *Managing Soil pH for Crop Production in Calcareous-Alkaline Soil* (Cardon et al.): 1,000 lb de S/acre para 7.0→6.0 sin cal; cambios medibles a los 12-18 meses; cada 1% de cal ≈ 10 t en los primeros 15 cm; 20,000-50,000 galones de ácido sulfúrico puro para disolver la capa arable de un acre con 15-40% de cal. <https://extension.usu.edu/crops/research/managing-soil-ph-for-crop-production>
 14. Scielo Chile — *Azufre elemental como corrector del pH y la fertilidad* (Agricultura Técnica 67(2), 2007): suelo con 5.2% de CaCO₃ pasó de 8.31 a 8.03. <https://scielo.conicyt.cl/pdf/agrtec/v67n2/at07.pdf>
 15. UF/IFAS — SS480, *Soil pH and the Home Landscape or Garden* (Shober, Wiese, Denny): tabla de azufre en arenosos (4-19 lb/1000 ft²); máximos de 14 y 7 lb por 1000 ft²; efecto localizado y temporal; nada baja permanentemente el pH de suelos con mucho calcio. <https://ask.ifas.ufl.edu/publication/SS480>
 16. Thien, S.J. (1979) — *A flow diagram for teaching texture-by-feel analysis*, Journal of Agronomic Education 8:54-55; y Vos et al. (2016), *Geoderma* <https://www.sciencedirect.com/science/article/pii/S0016706115301749>
