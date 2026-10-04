@@ -15,8 +15,8 @@ Todo está escrito para una huerta real: una cama de 3 m × 50 cm × 30 cm, mace
 
 ## Cómo leerlo
 
-1. **Si quieres cultivar en un clima así:** empieza por [`Huerta/Que aplica y que no (filtro Arteaga)`](Huerta/Que%20aplica%20y%20que%20no%20(filtro%20Arteaga).md) y luego el índice de `Huerta/`. El filtro avisa qué consejos de clima templado húmedo no cruzan al semiárido — es la nota más importante del bloque.
-2. **Si quieres aprender el oficio completo:** el [plan de estudios](Plan%20de%20Estudios/README.md) trae el orden, los prerequisitos y qué desbloquea cada módulo. Los módulos están escritos como estructura: la lista de temas y la tarea; el contenido de cada uno se escribe al estudiarlo.
+1. **Si quieres cultivar en un clima así:** empieza por [`Huerta/Que aplica y que no (filtro Arteaga)`](Huerta/Que%20aplica%20y%20que%20no%20%28filtro%20Arteaga%29.md) y luego el índice de `Huerta/`. El filtro avisa qué consejos de clima templado húmedo no cruzan al semiárido — es la nota más importante del bloque.
+2. **Si quieres aprender el oficio completo:** el [plan de estudios](Plan%20de%20Estudios/README.md) trae el orden, los prerequisitos y qué desbloquea cada módulo. La estructura de los 13 está escrita; el contenido se va escribiendo módulo por módulo y el primero en estar completo (**M01 La tierra**, con sus fuentes y su herramienta de cálculo) sirve de ejemplo del formato.
 3. **Si lo que quieres es vivir de esto:** `Granja/` primero (legal, agua, programas), `Plan de Estudios/` módulos 8 a 10 después (costos, mercado, financiamiento).
 
 ## Reglas de esta base

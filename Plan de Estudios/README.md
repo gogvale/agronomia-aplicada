@@ -28,7 +28,7 @@ Tres reglas:
 
 | # | Módulo | Nivel | Prerequisitos | Estado |
 |---|---|---|---|---|
-| [[M01 - La tierra]] | La tierra | 1 · Bases | — | no iniciado |
+| [[M01 - La tierra]] | La tierra | 1 · Bases | — | **contenido escrito** · tarea pendiente |
 | [[M02 - La planta]] | La planta: cómo crece y cómo se reproduce | 1 · Bases | — | no iniciado |
 | [[M03 - El agua]] | El agua | 1 · Bases | [[M01 - La tierra\|M01]] | no iniciado |
 | [[M04 - El clima y la temporada]] | El clima y la temporada | 1 · Bases | — | no iniciado |
@@ -39,7 +39,7 @@ Tres reglas:
 | [[M09 - El mercado y el cliente]] | El mercado y el cliente | 3 · Negocio | M08 | no iniciado |
 | [[M10 - El dinero externo y el riesgo]] | El dinero externo y el riesgo | 3 · Negocio | M08 | no iniciado |
 | [[M11 - La gente y el territorio]] | La gente y el territorio | 4 · Sistema | M09, M10 | no iniciado |
-| [[M12 - La tecnología como palanca]] | La tecnología como palanca | 4 · Sistema | — (de fondo desde el día 1) | no iniciado |
+| [[M12 - La tecnología como palanca]] | La tecnología como palanca | 4 · Sistema | — (de fondo desde el día 1) | **parcial: escrito lo que toca a M01** |
 | [[M13 - La parcela como sistema]] | La parcela como sistema | 4 · Sistema | M05–M10 | no iniciado |
 
 Estados posibles: `no iniciado` · `en curso` · `tarea en marcha` · `cerrado` (tarea entregada y anotada).
@@ -116,13 +116,15 @@ Lo que las mallas **no** traen (y por eso el plan no lo inventa): nombres de las
 
 ## Cómo se escribe un módulo (cuando toque)
 
-Cuando se pida avanzar un módulo, la nota deja de ser esqueleto y se llena con:
+**M01 — La tierra es el módulo de referencia del formato**: contiene los siete submódulos escritos con su porqué, las tablas de datos, los diagramas y el proyecto paso a paso. Cuando se pida avanzar un módulo, la nota deja de ser esqueleto y se llena con:
 
 1. **Contenido por submódulo** — explicación real, con el porqué, no lista de datos.
 2. **Diagramas** — ciclos, capas de suelo, calendario, flujo de agua, gráficas. En texto/ASCII o imagen si aporta.
 3. **Ejemplos y aplicaciones** — siempre con la cama de 3 m, las macetas, la parcela y el clima de Arteaga en el centro.
 4. **Actividades y proyecto** — la tarea del módulo detallada, paso a paso, con materiales y tiempo.
-5. **Fuentes citadas** — referencia por referencia (FAO, INIFAP, SAGARPA/SIAP, CONAGUA, UAAAN, INIFAP regional). Aplica la regla de [[Huerta/README|Huerta/]]: si no hay cita, es interpretación nuestra y se dice.
+5. **Fuentes citadas** — referencia por referencia (FAO, INIFAP, SAGARPA/SIAP, CONAGUA, UAAAN, INIFAP regional). Aplica la regla de [`Huerta/README`](Huerta/README.md): si no hay cita, es interpretación nuestra y se dice.
+
+Las **herramientas de cálculo** (scripts deterministas) viven en `Plan de Estudios/scripts/` — hoy `suelo.py`, con autoprueba. Regla del plan: la lógica y los números no dependen de un modelo de lenguaje.
 
 **Regla de validez:** todo dato agronómico debe ser verificable y aplicable a México (idealmente al norte semiárido). Nada de calendarios de siembra de clima templado húmedo sin traducir al clima local ([[Que aplica y que no (filtro Arteaga)]]).
 
@@ -142,6 +144,7 @@ Regla de nombre: descriptivo, en español, sin numeración, al estilo de [[Huert
 
 ### Bitácora
 
+- **2026-10-04 (2):** escrito el contenido de **M01 La tierra** (7 submódulos con fuentes citadas: NOM-021-SEMARNAT-2000, INIFAP Coahuila, USU/CSU/Clemson/UF-IFAS, Scielo Chile, y precios de laboratorios e insumos verificados el mismo día) más las partes de **M12** que lo sostienen (12.1 registro, 12.2 medición, 12.4 levantamiento, 12.5 análisis, 12.8 herramientas). Se agregó la herramienta determinista `scripts/suelo.py` (14 autopruebas, todas en verde) que calcula dosis de enmienda, costo por unidad de pH y la plantilla del registro. Preguntas abiertas que quedaron documentadas: no existe tabla oficial mexicana de azufre por unidad de pH, ni dosis mexicana de EDDHA para hortalizas.
 - **2026-10-04:** abierto el plan. Mallas UAAAN 2025 de las cuatro carreras + contraste CUCSUR levantadas y verificadas por OCR; se confirmó que no existe un currículo público de base temática para horticultura de semiárido mexicano, así que la estructura es propia y las mallas se usan como mapa de contenidos. 13 módulos definidos, con prerequisitos, tareas y notas reservadas.
 
 ## Ver también
