@@ -10,6 +10,16 @@ actualizado: 2026-10-04
 
 **En una frase:** entender el suelo como un sistema vivo que se puede medir, corregir y presupuestar, para dejar de tratar la tierra como un saco de arena al que se le echan cosas.
 
+**Siglas de este módulo** (para no leer con el diccionario al lado):
+
+| Sigla | Qué es, en llano |
+|---|---|
+| **MO** | Materia orgánica: los restos de plantas, animales y microbios en descomposición, más el humus que queda. Se mide en % del peso del suelo. Es la parte que retiene agua, afloja la arcilla y alimenta la vida del suelo |
+| **CE** | Conductividad eléctrica: cuánta sal disuelta trae el suelo o el agua. Se mide en dS/m; arriba de 4 ya es suelo salino |
+| **CIC** | Capacidad de intercambio catiónico: cuántos nutrientes (calcio, magnesio, potasio) puede retener la tierra para soltarlos después |
+| **EDDHA / EDTA / DTPA** | Tipos de quelato de hierro: moléculas que envuelven el hierro para que la planta pueda tomarlo. EDDHA aguanta arriba de pH 7.5; EDTA y DTPA solo sirven por debajo |
+| **cal libre** | Carbonatos sueltos (cal) en el suelo. Se detecta con vinagre: si burbujea, hay cal |
+
 ## Qué vas a poder hacer al terminar
 
 1. **Decir qué suelo tienes** —clase textural, profundidad efectiva, pH, cal libre, materia orgánica— con método, no con impresión.

@@ -10,6 +10,8 @@ actualizado: 2026-10-04
 
 **En una frase:** usar lo que ya sabes hacer (programar, medir, automatizar, analizar datos) como la ventaja que un agricultor tradicional tarda años en construir.
 
+**Siglas:** MO = materia orgánica del suelo; CE = conductividad eléctrica (sales, en dS/m); CSV = archivo de texto con columnas separadas por comas (se abre en cualquier hoja de cálculo); GPS = ubicación por satélite del teléfono.
+
 ## El fenómeno
 
 Este es el único módulo donde se parte con ventaja. El resto del plan enseña lo que no se sabe; aquí se convierte la experiencia previa en dinero: **medir en vez de estimar, registrar sin trabajo manual, automatizar lo repetitivo y analizar el rendimiento con datos propios.** Es de fondo desde el primer día —el registro de suelo del módulo 1 ya es un sistema de datos— pero su aplicación plena llega cuando hay ciclos que comparar.
