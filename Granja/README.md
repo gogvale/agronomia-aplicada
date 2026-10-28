@@ -10,10 +10,12 @@ verificado: 2026-10-02
 
 Esto **no** es la huerta del patio. La huerta (cama de 3 m, macetas, calendario de siembra, técnicas de `/hgm/`) vive en la bitácora de campo del autor (privada) y [[Huerta/README|Huerta/]]. Aquí está el negocio: tierra, dinero, programas, mercado y papeles.
 
-## Las cinco notas
+## Las notas
 
 - [[Plan de transición v2 (Gemini)]] — el plan como llegó, ordenado, con nuestra lectura aparte.
 - [[Fase 2 - recursos operativos]] — **lo que aplica de verdad para la Fase 2**: programas 2026 de la SEDER con montos y requisitos, agua (REPDA, PAIH U217), sementales, seguro contra helada y granizo, precios de mayoreo, y a qué oficina y teléfono se le habla.
+- [[Cadena de la manzana - Arteaga]] — cómo comercializa FRUSA sus 3,000 t (tesis UAAAN 2018), qué lecciones deja y qué 92.5 % de la producción regional queda fuera de ese canal.
+- [[Compradores - Saltillo]] — a quién venderle: universo medido, anclas verificadas y la tabla para llenar en campo.
 - [[Tenencia de tierra y registros pecuarios]] — el detalle legal que sí importa, con los artículos de la Ley Agraria leídos del texto oficial.
 - [[Fuentes y recursos locales]] — las 16 ligas del listado, verificadas hoy una por una: cuáles viven, cuáles están rotas, cuáles son relleno.
 - `origen/` — los dos documentos tal como llegaron (`plan-transicion-granjero-arteaga-v2.pdf` y `fuentes-importantes-agricolas.txt`).
