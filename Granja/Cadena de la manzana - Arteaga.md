@@ -54,6 +54,8 @@ Y queda fuera también, por definición del caso: la fruta de segunda (jugo, des
 | **Comedores de parques industriales** (Ramos Arizpe/Saltillo) | Contratos grandes y constantes | Factura, inocuidad, volumen y crédito a 30-60 días |
 | **Manzana orgánica** de San Antonio de las Alazanas | Ya se produce (~200 t/año) y vale más | Mercado chico, certificación, comprador especializado |
 
+Ninguno de estos candidatos está evaluado todavía por su **defensa** —qué te protege de que llegue otro mañana—, solo por su margen. Esa prueba vive en [[Compradores - Saltillo#La prueba de defensa]], junto con la regla de que un solo cliente que concentre más de la mitad de las ventas es un empleo disfrazado.
+
 ## Cómo se prueba si un mercado está abierto
 
 Cuatro preguntas, en orden: ¿quién compra hoy y a qué precio? ¿cuántos compradores hay en 100 km? ¿qué exige el comprador que nadie cumple (frío, empaque, factura, entrega semanal)? ¿cuánto cuesta cumplirlo?

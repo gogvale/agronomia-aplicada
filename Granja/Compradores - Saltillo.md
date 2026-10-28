@@ -57,6 +57,33 @@ Una fila por negocio. Las columnas que importan son las cinco del medio: sin ell
 
 Si pide factura. Si pide frío. Si pide entrega un día fijo. Si paga puntual. Si compra lo feo o solo lo bonito. Esas cuatro respuestas dicen más del cliente que el precio.
 
+## La prueba de defensa
+
+Antes de elegir qué vender, la pregunta no es solo "¿deja margen?" sino **"¿qué me protege de que mañana llegue otro y haga lo mismo?"**. Un negocio sin defensa no es negocio: es trabajo por cuenta propia, y escala solo trabajando más horas.
+
+**Las cuatro defensas, de más fuerte a más frágil**
+
+1. **Relación** — el productor te vende a ti y el comprador te marca a ti, no al directorio. Se construye con años y con pagar a tiempo.
+2. **Activo** — frío, báscula, empaque, bodega, camión. Cuesta dinero, pero una vez puesto, el que llega nuevo tiene que invertir lo mismo.
+3. **Contrato o licencia** — pedido fijo semanal, exclusividad de zona, registro sanitario, concesión de agua. Es papel, y el papel aguanta.
+4. **Dato** — costo real, merma real, días de cobro y precio por cliente mejor medidos que los del vecino. La más barata de tener y la más fácil de copiar.
+
+**Cada cadena candidata, con su defensa**
+
+| Cadena | Margen esperado | Defensa posible | ¿En un año? | Riesgo de cliente único |
+|---|---|---|---|---|
+| Ruta semanal a restaurantes | Medio | Relación + cumplimiento | Sí | Alto: pocos clientes, cada uno pesa |
+| Segunda calidad a Jugos Álamo | Bajo | Ninguna propia; dependes del industrial | — | Total |
+| Empaque y clasificación por servicio | Medio | Activo (báscula, espacio, gente) | Sí, con capital | Bajo |
+| Comedores de parques industriales | Alto | Contrato + factura + inocuidad | Difícil sin historial | Medio, pero contratos grandes |
+| Manzana orgánica | Alto | Certificación (papel) | No en un año | Alto |
+
+**Las tres reglas**
+
+- Sin al menos una defensa real, no es negocio: es chamba con inventario.
+- **Un solo cliente que concentre más de la mitad de tus ventas es un empleo disfrazado**: te puede correr un martes.
+- La defensa más barata de construir es el **cumplimiento** (entregar el día que dijiste). Empieza por ahí; el activo viene después.
+
 ## Ver también
 
 - [[Cadena de la manzana - Arteaga]] — el caso FRUSA y las lecciones
